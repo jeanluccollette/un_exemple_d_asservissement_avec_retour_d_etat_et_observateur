@@ -15,7 +15,7 @@ Les toolboxes nécessaires dans Matlab sont les suivants :
 
 Les fichiers permettant la simulation sont dans le [fichier archive](chariot_et_pendule.zip) joint.
 
-- **pendule_chariot.pdf**
-- **pendule_lineaire_haut.wrl**, **logocs.png signature.png**
-- **pendule_chariot_lqg_prtrb_int_ini.m**
-- **pendule_chariot_lqg_prtrb_int_sim.slx**, **pendule_chariot_lqg_prtrb_int_sim_r2019b.slx**
+- **pendule_chariot.pdf** : description du modèle
+- **pendule_lineaire_haut.wrl**, **logocs.png**, **signature.png** : fichiers pour l'animation 3D
+- **pendule_chariot_lqg_prtrb_int_ini.m** : script pour l'initialisation des variables dans le schéma
+- **pendule_chariot_lqg_prtrb_int_sim.slx**, **pendule_chariot_lqg_prtrb_int_sim_r2019b.slx** : schéma Simulink (avec version r2019b au besoin)
