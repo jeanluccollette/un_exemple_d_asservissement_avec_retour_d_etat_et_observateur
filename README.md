@@ -19,3 +19,9 @@ Les fichiers permettant la simulation sont dans le [fichier archive](chariot_et_
 - **pendule_lineaire_haut.wrl**, **logocs.png**, **signature.png** : fichiers pour l'animation 3D
 - **pendule_chariot_lqg_prtrb_int_ini.m** : script pour l'initialisation des variables dans le schéma
 - **pendule_chariot_lqg_prtrb_int_sim.slx**, **pendule_chariot_lqg_prtrb_int_sim_r2019b.slx** : schéma Simulink (avec version r2019b au besoin)
+
+## La vidéo
+
+Après lancement de la simulation, on obtient la restitution suivante.
+
+![](chariot_et_pendule.mp4)
