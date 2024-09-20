@@ -24,4 +24,4 @@ Les fichiers permettant la simulation sont dans le [fichier archive](chariot_et_
 
 Après lancement de la simulation, on obtient la restitution suivante.
 
-![]](https://github.com/user-attachments/assets/284c3366-8a48-45d8-9631-04f487a2d021)
+![](https://github.com/user-attachments/assets/284c3366-8a48-45d8-9631-04f487a2d021)
