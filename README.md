@@ -10,3 +10,7 @@ Les toolboxes nécessaires dans Matlab sont les suivants :
 - Simulink
 - Control System Toolbox
 - Simulink 3D Animation
+
+## Les fichiers
+
+[le fichier archive](chariot_et_pendule.zip)
