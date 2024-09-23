@@ -43,7 +43,7 @@ Le modèle est complété par l'équation qui lie la tension $u_m$ d'alimentatio
 
 $$F=k_1 u_m + k_2 \dot x$$
 
-## Réglages de l'Asservissement
+## Réglages de l'asservissement
 
 Le point de départ est le modèle linéarisé tangent.
 ```
