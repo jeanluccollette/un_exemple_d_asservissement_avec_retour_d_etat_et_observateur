@@ -41,7 +41,7 @@ etatp(4)=thetapp;
 
 Le modèle est complété par l'équation qui lie la tension $u_m$ d'alimentation du moteur et la force $F$ qui en résulte. 
 
-$$F=k_1 u_m + k_2 \dot x$$
+$$F=k_1 u_m - k_2 \dot x$$
 
 ## Réglages de l'asservissement
 
