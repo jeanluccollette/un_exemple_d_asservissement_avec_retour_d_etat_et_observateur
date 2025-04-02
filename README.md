@@ -86,5 +86,7 @@ Aobs=A-L*C;Bobs=[B L];Cobs=eye(4);Dobs=zeros(4,3);
 
 Après lancement de la simulation, on obtient la restitution suivante.
 
-https://github.com/user-attachments/assets/88ce8231-a641-4aab-aba8-073881c81948
+https://github.com/user-attachments/assets/06c8aeda-1388-45ea-ac58-d0e053a995b7
+
+
 
